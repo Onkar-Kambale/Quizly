@@ -13,7 +13,9 @@ Quizly is a lightweight, responsive quiz application built with HTML, CSS, and J
 
 ## 🖼️ Preview
 
-![Quizly Screenshot]()
+![Quizly Screenshot](next.png)
+
+![Quizly Screenshot](restart.png)
 
 ## 🛠️ Built With
 
